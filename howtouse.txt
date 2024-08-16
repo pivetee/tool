@@ -1,0 +1,1 @@
+open the exe, write the bot token in the token section and write the server id in the server id section xd
